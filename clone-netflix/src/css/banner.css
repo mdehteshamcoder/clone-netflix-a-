@@ -1,0 +1,44 @@
+.banner{
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXkySzuMf7HsdwsfdRQtrI9-FHJs9xYCz7A&usqp=CAU');
+    background-position: center;
+    background-size: cover; */
+    height: 500px;
+    position: relative;
+    object-fit: contain;
+    color: #fff;
+
+}
+
+.banner_content{
+    margin-left: 30px;
+    padding-top: 140px;
+    height:200px;
+}
+
+.banner-description{
+    width:500px;
+    line-height: 1.3;
+    padding-top: 20px;
+    font-size: 16px;
+
+}
+.banner_buttons button{
+    cursor: pointer;
+    color: #ffff;
+    outline: 0;
+    border: 0;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-color: red;
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+.banner_buttons button:hover{
+    background-color: #fff;
+    color: #000;
+
+}
+
